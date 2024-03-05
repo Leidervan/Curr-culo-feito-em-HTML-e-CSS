@@ -1,0 +1,23 @@
+Tags ultilizada na atividade.
+1º Tag: <Title><Title>
+2º Tag: <Class = "Page-Container"><\div>
+3º Tag: </section> Deixa o código mais organizado.
+4º Tag: <"Caminho da imagem" alt="CASO A IMAGEM NÃO APAREÇA INSIRO MEU NOME ">
+
+5º Tag: <h1></h1> Existe 6 'H' no HTML. Serve para colocar um
+destacar titulos e subtitulo.
+
+6º Tag: <p><\p> É usada para definir paragrafos
+7º Tag: text-align: justify - Text-align serve para definir uma 
+configuração dos textos. E justify você você define o tipo de 
+configuração de escrita, tipo centralizar justificar entre outras.
+
+8º Tag: Para mudar a tipo da fonte é o Font-family:
+9º Tag <Ul><\<Ul>
+10º <ul><\li> adiciona na lista não ordenada, tipo um 'add' na colection no C#
+
+11º Tag: <a href="Link desejado vai aqui"> <li>Nome do link </li> </a>
+
+12º Tag: <p><strong>Nome do do arquivo:</strong>Nome do próprio arquivo</p>
+13º Tag: <p><strong></p> Serve para deixar a letra mais forte, semelhante a um negrito.
+14º </footer> Significa roda-pé 	
